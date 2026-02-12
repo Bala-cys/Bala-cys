@@ -1,55 +1,65 @@
 Hi, I'm Bala 👋  
-Cyber Security Graduate | Aspiring SOC Analyst & VAPT Enthusiast
+# Bala
 
-
-🎓 B.E Cyber Security Graduate  
-🛡 Aspiring SOC Analyst & VAPT Enthusiast  
-🔐 Passionate about Network Security and Threat Detection  
-📍 India  
+Cyber Security Graduate | Aspiring SOC Analyst & VAPT Enthusiast  
+Focused on Network Security, Web Application Security, and Threat Detection  
+India  
 
 ---
 
-## 🛠 Technical Skills 
+## Profile Summary
+
+Motivated Cyber Security graduate with hands-on experience in vulnerability assessment, network monitoring, and web security testing. Passionate about identifying security weaknesses and improving defensive strategies through practical lab environments and real-world simulations.
+
+---
+
+## Technical Skills
 
 ### Programming
 - Python
 
-###  Networking & Security
+### Networking & Security Concepts
 - TCP/IP Fundamentals
 - Network Traffic Analysis
-- Vulnerability Assessment Basics
-- Web Application Security Basics
+- Vulnerability Assessment
+- Web Application Security
+- OWASP Top 10
+- Basic Incident Response Concepts
 
-## 🛠 Tools & Technologies
+---
 
-### 🔍 Network & Scanning
+## Security Tools
+
+### Network & Scanning
 - Nmap
 - Wireshark
 - tcpdump
 
-### 🌐 Web Security
+### Web Application Testing
 - Burp Suite
 - OWASP ZAP
 - Nikto
+- Gobuster
 
-## 🎯 Practical Security Training
+### Exploitation & Practice Labs
+- Metasploit Framework
+- Metasploitable
+- DVWA
+- PortSwigger Web Security Academy
+- TryHackMe
 
-- PortSwigger Web Security Academy – Hands-on practice in SQL Injection, XSS, CSRF, Authentication & Access Control vulnerabilities
-- OWASP Top 10 vulnerability analysis
-- DVWA (Damn Vulnerable Web Application) testing
-- TryHackMe – Network & Web Security Labs
-
-### 🐧 Operating Systems
+### Operating Systems
 - Kali Linux
 - Ubuntu
 - Windows
 
 ---
 
-##  Projects
-- Chrono – Metadata Analysis Tool
-- ARP Spoofing Detection System
-- Netwiz – Network Anomaly Detector
+## Projects
+
+- Chrono – Metadata Analysis Tool  
+- ARP Spoofing Detection System  
+- Netwiz – Network Anomaly Detector  
 
 ---
 
