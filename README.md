@@ -1,4 +1,6 @@
-# Hi, I'm Bala 👋
+Hi, I'm Bala 👋  
+Cyber Security Graduate | Aspiring SOC Analyst & VAPT Enthusiast
+
 
 🎓 B.E Cyber Security Graduate  
 🛡 Aspiring SOC Analyst & VAPT Enthusiast  
@@ -7,7 +9,7 @@
 
 ---
 
-## 🛠 Technical Skills & Tools
+## 🛠 Technical Skills 
 
 ### Programming
 - Python
@@ -18,13 +20,29 @@
 - Vulnerability Assessment Basics
 - Web Application Security Basics
 
-###  Security Tools
+## 🛠 Tools & Technologies
+
+### 🔍 Network & Scanning
 - Nmap
 - Wireshark
+- tcpdump
+
+### 🌐 Web Security
 - Burp Suite
-- Metasploitable
-- TryHackMe Labs
-- Linux (Kali)
+- OWASP ZAP
+- Nikto
+
+## 🎯 Practical Security Training
+
+- PortSwigger Web Security Academy – Hands-on practice in SQL Injection, XSS, CSRF, Authentication & Access Control vulnerabilities
+- OWASP Top 10 vulnerability analysis
+- DVWA (Damn Vulnerable Web Application) testing
+- TryHackMe – Network & Web Security Labs
+
+### 🐧 Operating Systems
+- Kali Linux
+- Ubuntu
+- Windows
 
 ---
 
