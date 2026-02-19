@@ -68,5 +68,6 @@ LinkedIn: (www.linkedin.com/in/balacybersec)
 Email: (balainfosec7@gmail.com)
 
 ## Resume
-[bala cv.pdf](https://github.com/user-attachments/files/25257460/bala.cv.pdf)
+[balacv3.pdf](https://github.com/user-attachments/files/25419182/balacv3.pdf)
+
 
